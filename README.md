@@ -19,3 +19,4 @@ from google maps
 * NaNum https://g.page/nanumberlin?share
 * Lila https://goo.gl/maps/GBHtd2H6B9xPPXZ56
 * Butterhandlung https://g.page/Butterhandlung?share
+* La Côte https://g.page/lacoteberlin?share
