@@ -10,6 +10,8 @@ from google maps
 
 ## To Test
 
+* Le Cellier https://www.lecellier.de/
+
 * Chicago BBQ https://goo.gl/maps/23DiyxfFuisVGMFd8
 * Crackers https://goo.gl/maps/ehXb9MAbEHRkcKay8
 * Bonvivant https://g.page/bonvivant-cocktail-bistro?share
